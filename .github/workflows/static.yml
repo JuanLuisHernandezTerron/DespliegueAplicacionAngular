@@ -20,4 +20,4 @@ jobs:
         build_configuration: production
         base_href: /DespliegueAplicacionAngular/
         deploy_branch: gh_pages
-        angular_dist_build_folder: dist/DespliegueAplicacionAngular
+        angular_dist_build_folder: dist/nexorun
